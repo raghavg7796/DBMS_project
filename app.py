@@ -12,7 +12,7 @@ import random,json
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-#init app
+##init app
 app = Flask(__name__)
 
 #initialising the given list variables as empty.
